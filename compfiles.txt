@@ -1,3 +1,5 @@
 ./miTest/AppTest.java
 ./miPrincipal/SumaDosNumeros.java
 ./miPrincipal/Principal.java
+./miPrincipal/PromedioTresNotas.java
+./miPrincipal/ExpresionMultiplica.java
