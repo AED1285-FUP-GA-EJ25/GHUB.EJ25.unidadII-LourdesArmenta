@@ -1,4 +1,7 @@
 ./miTest/AppTest.java
+./biblioteca/Libro.java
+./biblioteca/Autor.java
+./biblioteca/Usuario.java
 ./miPrincipal/SumaDosNumeros.java
 ./miPrincipal/Principal.java
 ./miPrincipal/PromedioTresNotas.java
