@@ -40,6 +40,65 @@ public class Principal {
         System.out.println("El valor de la variable var2 = "+var2);
 
         //var2 = 33000;  no se permite porque excede el rango permitido para un short
+
+        long var3 =   -9223372036854775808L;
+        var3 =    9223372036854775807L;
+        System.out.println("El valor de la variable var3 = "+var3);
+
+        var3 = 1; //desperdicio memoria
+        System.out.println("El valor de la variable var3 = "+var3);
+
+        byte var4 = 127;
+        System.out.println("El valor de la variable var4 = "+var4);
+
+        //representar en java valores reales
+        float var5 = 3.40282347e+38F;
+        System.out.println("El valor de la variable var5 = "+var5);
+        var5 = 3.1416f;
+        var5 = 3.1416e3F;
+        System.out.println("El valor de la variable var5 = "+var5);
+        var5 = 3.1416e-3F;
+        System.out.println("El valor de la variable var5 = "+var5);
+
+        double var6 = 1.79769313486231570E+308;
+        System.out.println("El valor de la variable var6 = "+var6);
+        var6 = 1.79769313486231570E-308;
+        System.out.println("El valor de la variable var6 = "+var6);
+        var6 = 1.0;
+        System.out.println("El valor de la variable var6 = "+var6);
+
+        //Representar los valores especiales de los numeros reales
+        System.out.println(Math.sqrt(4));
+        System.out.println(Math.sqrt(-1));
+        System.out.println(1.1e200*1.1e200);
+        System.out.println(-1.1e200*1.1e200);
+        
+        //representacion de datos tipo caracter
+
+        char var7 = 'A';
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+    
+
+
+
+
+
+
         
 
 

@@ -6,3 +6,4 @@
 ./miPrincipal/Principal.java
 ./miPrincipal/PromedioTresNotas.java
 ./miPrincipal/ExpresionMultiplica.java
+./miPrincipal/Examen1.java
