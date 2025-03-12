@@ -7,7 +7,7 @@ package miPrincipal;
 
 import java.util.Scanner;
 
-public class Examen1 {
+public class Examen11 {
 
     public static void main(String args[]) {
         //crear la clase Scanner

@@ -3,7 +3,8 @@
 ./biblioteca/Autor.java
 ./biblioteca/Usuario.java
 ./miPrincipal/SumaDosNumeros.java
+./miPrincipal/Examen12.java
 ./miPrincipal/Principal.java
+./miPrincipal/Examen11.java
 ./miPrincipal/PromedioTresNotas.java
 ./miPrincipal/ExpresionMultiplica.java
-./miPrincipal/Examen1.java
