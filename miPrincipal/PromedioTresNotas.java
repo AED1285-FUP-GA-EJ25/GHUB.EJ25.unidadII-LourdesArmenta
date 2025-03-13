@@ -22,9 +22,14 @@ package miPrincipal;
         System.out.print("Proporciona valor del parcial 3:");
         p3 = entrada.nextInt();
 
-        p = (p1+p2+p3)/3;
+        //p = (p1+p2+p3)/3.0F; //utilizando combinaciones de tipo
+        p = (float)((p1+p2+p3))/3; //utilizado la conversion de tipos explicita (cast) primero convierto
+                                   //el resultado de la suma a float y despues divido entre la constante literal 
+                                   //entara , como el float tiene proferencia sobre el int el resultado
+                                   //es float
 
         System.out.println("Promedio = "+p);
+        entrada.close();
 
 
 

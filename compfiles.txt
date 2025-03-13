@@ -2,6 +2,7 @@
 ./biblioteca/Libro.java
 ./biblioteca/Autor.java
 ./biblioteca/Usuario.java
+./miPrincipal/PromedioTresNotasV2.java
 ./miPrincipal/SumaDosNumeros.java
 ./miPrincipal/Examen12.java
 ./miPrincipal/Principal.java

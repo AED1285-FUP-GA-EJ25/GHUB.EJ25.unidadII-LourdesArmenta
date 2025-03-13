@@ -35,6 +35,18 @@ public class Principal {
         System.out.println("El valor de la variable var1 = "+var1);
         //var1 =  2147483648; no se permite porque sale del rango de una variable tipo int
 
+        var1 = 0xA; //cuando antepongo con el sufijo 0x a una constante literal,
+                    //el sistema lo toma en haxadecimal
+        System.out.println("El valor de la variable var1 en hexadecimal= "+var1);
+
+        var1 = 07; //cuando antegon el 0 indico que la constante litetal es octal
+        System.out.println("El valor de la variable var1 en octal= "+var1);
+
+
+
+
+
+
         short var2; //declarando una varianle de nombre var2 como short
         var2 = 100;
         System.out.println("El valor de la variable var2 = "+var2);
@@ -76,6 +88,16 @@ public class Principal {
         //representacion de datos tipo caracter
 
         char var7 = 'A';
+        System.out.println("El valor del caracter es "+var7);
+
+        char var8 = 99; //converte el codigo assci a caracter
+        System.out.println("El valor del caracter es "+var8);
+
+        var8=64;
+        System.out.println("El valor del caracter es "+var8);
+
+
+
         
         
 
