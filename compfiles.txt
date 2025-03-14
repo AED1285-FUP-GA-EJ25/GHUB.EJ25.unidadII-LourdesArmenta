@@ -9,3 +9,4 @@
 ./miPrincipal/Examen11.java
 ./miPrincipal/PromedioTresNotas.java
 ./miPrincipal/ExpresionMultiplica.java
+./miPrincipal/CalculaAreaCirculo.java

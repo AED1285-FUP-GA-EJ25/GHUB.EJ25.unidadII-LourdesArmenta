@@ -42,11 +42,6 @@ public class Principal {
         var1 = 07; //cuando antegon el 0 indico que la constante litetal es octal
         System.out.println("El valor de la variable var1 en octal= "+var1);
 
-
-
-
-
-
         short var2; //declarando una varianle de nombre var2 como short
         var2 = 100;
         System.out.println("El valor de la variable var2 = "+var2);
@@ -95,6 +90,34 @@ public class Principal {
 
         var8=64;
         System.out.println("El valor del caracter es "+var8);
+
+         //tipo de datos boleanos
+         boolean var9;
+         var9 = true;
+         System.out.println("el contenido de la variable var9 : "+var9);
+         var9 = false;
+         System.out.println("el contenido de la variable var9 : "+var9);
+
+         if (var9)
+            System.out.println("Verdadero");
+         else
+            System.out.println("Falso");
+
+        var9 = 5>0; //expresion relacional
+        System.out.println("el contenido de la variable var9 : "+var9);
+
+        var9 = 5==6; //expresion relacional de igualfda
+        System.out.println("el contenido de la variable var9 : "+var9);
+
+        //calcular el area de un circulo
+        
+
+
+
+
+         
+
+
 
 
 
